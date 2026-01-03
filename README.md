@@ -59,5 +59,5 @@ If you want to run this locally:
 
 **1. Clone the Repo**
 ```bash
-git clone [https://github.com/bishal-dhungana/ai-for-good]
+git clone https://github.com/bishal-dhungana/ai-for-good.git
 cd PharmaGuard
